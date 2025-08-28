@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nehith - Team Member</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+            background-color: #FF5F1F; /* Bright orange background */
+        }
+        h1, h2 {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: white;
+            font-family: cooper black, sans-serif;
+        
+        }
+        .icon {
+            font-size: 1.5em; /* Adjust size to match the heading */
+            line-height: 1; /* Align with text */
+        }
+        p {
+            font-family: Orator, sans-serif;
+            color: white;
+        }
+        ul {
+            list-style-type: disc;
+            color: white;
+            font-family: Orator, sans-serif;
+        }
+        a {
+            color: #007bff; /* A common blue for links */
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        <span class="icon">💽</span>
+        Sai Jashwanth - Team Member
+    </h1>
+    <p>Hi there! I'm Sai Jashwanth,Member of The Glitch Guilds. My role is to help design the site, help squad members, and help ensure smooth collaboration.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML5 & Semantic Structure</li>
+        <li>CSS Basics</li>
+        <li>Git & GitHub Collaboration</li>
+        <li>Team Management & Planning</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:alex@squadtitans.dev">saijashwanth.b.s.113@gmail.com/a></p>
+
+    <a href="#">&larr; Back to Squad Dashboard</a>
+</body>
+</html>
